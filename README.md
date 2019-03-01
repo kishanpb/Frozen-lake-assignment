@@ -21,3 +21,5 @@ b) People working with Mac OS or any Linux OS have an inbuilt python at their di
 5) There are a few inline questions in the given base codes, answer them as best as you can.
 
 6) Submit your local copy folder (successfully completed hopefully!) as a .zip in eCampus which will be made available later.
+
+Those who are interested can look into https://github.com/openai/gym/blob/master/gym/envs/toy_text/frozen_lake.py of how Gym creates this environment (to get an idea of what's the Frozen lake is all about!)
