@@ -36,4 +36,4 @@ b) People working with Mac OS or any Linux OS have an inbuilt python at their di
 
 6) There are a few inline questions in the given base codes, answer them as best as you can.
 
-7) Submit your local copy folder (successfully completed hopefully!) as a .zip in eCampus which will be made available later. Note: After you update the code(and get the results) in .ipynb files, save them as .html format and include these as well in your .zip file.
+7) Submit your local copy folder (successfully completed hopefully!) as a .zip in eCampus which will be made available later. "Note:" After you update the code(and get the results) in .ipynb files, save them as .html format and include these as well in your .zip file.
