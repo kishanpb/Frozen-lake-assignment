@@ -32,8 +32,6 @@ b) People working with Mac OS or any Linux OS have an inbuilt python at their di
 
 4) Clone this repository, and work with the local copy.
 
-5) Search for the "Enter your code here" in the ipynb base codes provided, read the comments carefully, and complete the assignment.
+5) Use the base code for getting to know about gym parameters and obtaining the results. **Note:** The provided base code is for Policy Iteration part of the assignment, please feel free to use this for Value Iteration and Q-learning as well making obvious changes. Feel free to rearrange the base code as it suits you as a coder! 
 
-6) There are a few inline questions in the given base codes, answer them as best as you can.
-
-7) Submit your local copy folder (successfully completed hopefully!) as a .zip in eCampus which will be made available later. **Note:** After you update the code(and get the results) in .ipynb files, save them as .html format and include these as well in your .zip file.
+6) Submit your local copy folder as a "FirstName-LastName.zip" in eCampus which will be made available later. **Note:** After you update the code(and get the results) in .ipynb files, save them as .html format and include these in the submission compressed folder("FirstName-LastName.zip").
