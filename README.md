@@ -1,5 +1,5 @@
 # Frozen-lake-assignment
-Texas A&amp;M Fall 2019 Introduction to Reinforcement Learning course assignment
+Texas A&amp;M Spring 2020, ECEN 489 Artificial Intelligence and Applications course assignment
 
 # Introduction to the Frozen Lake problem:
 
